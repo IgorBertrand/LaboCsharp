@@ -1,0 +1,15 @@
+D:\Vs Projects\C#\Labo3Créature\bin\Debug\net6.0\Labo3Créature.exe
+D:\Vs Projects\C#\Labo3Créature\bin\Debug\net6.0\Labo3Créature.deps.json
+D:\Vs Projects\C#\Labo3Créature\bin\Debug\net6.0\Labo3Créature.runtimeconfig.json
+D:\Vs Projects\C#\Labo3Créature\bin\Debug\net6.0\Labo3Créature.dll
+D:\Vs Projects\C#\Labo3Créature\bin\Debug\net6.0\Labo3Créature.pdb
+D:\Vs Projects\C#\Labo3Créature\obj\Debug\net6.0\Labo3Créature.csproj.AssemblyReference.cache
+D:\Vs Projects\C#\Labo3Créature\obj\Debug\net6.0\Labo3Créature.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vs Projects\C#\Labo3Créature\obj\Debug\net6.0\Labo3Créature.AssemblyInfoInputs.cache
+D:\Vs Projects\C#\Labo3Créature\obj\Debug\net6.0\Labo3Créature.AssemblyInfo.cs
+D:\Vs Projects\C#\Labo3Créature\obj\Debug\net6.0\Labo3Créature.csproj.CoreCompileInputs.cache
+D:\Vs Projects\C#\Labo3Créature\obj\Debug\net6.0\Labo3Créature.dll
+D:\Vs Projects\C#\Labo3Créature\obj\Debug\net6.0\refint\Labo3Créature.dll
+D:\Vs Projects\C#\Labo3Créature\obj\Debug\net6.0\Labo3Créature.pdb
+D:\Vs Projects\C#\Labo3Créature\obj\Debug\net6.0\Labo3Créature.genruntimeconfig.cache
+D:\Vs Projects\C#\Labo3Créature\obj\Debug\net6.0\ref\Labo3Créature.dll

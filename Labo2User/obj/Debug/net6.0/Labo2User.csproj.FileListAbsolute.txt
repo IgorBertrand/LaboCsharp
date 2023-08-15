@@ -1,0 +1,15 @@
+D:\Vs Projects\C#\Labo2User\bin\Debug\net6.0\Labo2User.exe
+D:\Vs Projects\C#\Labo2User\bin\Debug\net6.0\Labo2User.deps.json
+D:\Vs Projects\C#\Labo2User\bin\Debug\net6.0\Labo2User.runtimeconfig.json
+D:\Vs Projects\C#\Labo2User\bin\Debug\net6.0\Labo2User.dll
+D:\Vs Projects\C#\Labo2User\bin\Debug\net6.0\Labo2User.pdb
+D:\Vs Projects\C#\Labo2User\obj\Debug\net6.0\Labo2User.csproj.AssemblyReference.cache
+D:\Vs Projects\C#\Labo2User\obj\Debug\net6.0\Labo2User.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vs Projects\C#\Labo2User\obj\Debug\net6.0\Labo2User.AssemblyInfoInputs.cache
+D:\Vs Projects\C#\Labo2User\obj\Debug\net6.0\Labo2User.AssemblyInfo.cs
+D:\Vs Projects\C#\Labo2User\obj\Debug\net6.0\Labo2User.csproj.CoreCompileInputs.cache
+D:\Vs Projects\C#\Labo2User\obj\Debug\net6.0\Labo2User.dll
+D:\Vs Projects\C#\Labo2User\obj\Debug\net6.0\refint\Labo2User.dll
+D:\Vs Projects\C#\Labo2User\obj\Debug\net6.0\Labo2User.pdb
+D:\Vs Projects\C#\Labo2User\obj\Debug\net6.0\Labo2User.genruntimeconfig.cache
+D:\Vs Projects\C#\Labo2User\obj\Debug\net6.0\ref\Labo2User.dll

@@ -1,0 +1,15 @@
+D:\Vs Projects\C#\Labo1Player\bin\Debug\net6.0\Labo1Player.exe
+D:\Vs Projects\C#\Labo1Player\bin\Debug\net6.0\Labo1Player.deps.json
+D:\Vs Projects\C#\Labo1Player\bin\Debug\net6.0\Labo1Player.runtimeconfig.json
+D:\Vs Projects\C#\Labo1Player\bin\Debug\net6.0\Labo1Player.dll
+D:\Vs Projects\C#\Labo1Player\bin\Debug\net6.0\Labo1Player.pdb
+D:\Vs Projects\C#\Labo1Player\obj\Debug\net6.0\Labo1Player.csproj.AssemblyReference.cache
+D:\Vs Projects\C#\Labo1Player\obj\Debug\net6.0\Labo1Player.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vs Projects\C#\Labo1Player\obj\Debug\net6.0\Labo1Player.AssemblyInfoInputs.cache
+D:\Vs Projects\C#\Labo1Player\obj\Debug\net6.0\Labo1Player.AssemblyInfo.cs
+D:\Vs Projects\C#\Labo1Player\obj\Debug\net6.0\Labo1Player.csproj.CoreCompileInputs.cache
+D:\Vs Projects\C#\Labo1Player\obj\Debug\net6.0\Labo1Player.dll
+D:\Vs Projects\C#\Labo1Player\obj\Debug\net6.0\refint\Labo1Player.dll
+D:\Vs Projects\C#\Labo1Player\obj\Debug\net6.0\Labo1Player.pdb
+D:\Vs Projects\C#\Labo1Player\obj\Debug\net6.0\Labo1Player.genruntimeconfig.cache
+D:\Vs Projects\C#\Labo1Player\obj\Debug\net6.0\ref\Labo1Player.dll

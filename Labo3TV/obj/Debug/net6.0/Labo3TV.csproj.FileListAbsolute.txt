@@ -1,0 +1,15 @@
+D:\Vs Projects\C#\Labo3TV\bin\Debug\net6.0\Labo3TV.exe
+D:\Vs Projects\C#\Labo3TV\bin\Debug\net6.0\Labo3TV.deps.json
+D:\Vs Projects\C#\Labo3TV\bin\Debug\net6.0\Labo3TV.runtimeconfig.json
+D:\Vs Projects\C#\Labo3TV\bin\Debug\net6.0\Labo3TV.dll
+D:\Vs Projects\C#\Labo3TV\bin\Debug\net6.0\Labo3TV.pdb
+D:\Vs Projects\C#\Labo3TV\obj\Debug\net6.0\Labo3TV.csproj.AssemblyReference.cache
+D:\Vs Projects\C#\Labo3TV\obj\Debug\net6.0\Labo3TV.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vs Projects\C#\Labo3TV\obj\Debug\net6.0\Labo3TV.AssemblyInfoInputs.cache
+D:\Vs Projects\C#\Labo3TV\obj\Debug\net6.0\Labo3TV.AssemblyInfo.cs
+D:\Vs Projects\C#\Labo3TV\obj\Debug\net6.0\Labo3TV.csproj.CoreCompileInputs.cache
+D:\Vs Projects\C#\Labo3TV\obj\Debug\net6.0\Labo3TV.dll
+D:\Vs Projects\C#\Labo3TV\obj\Debug\net6.0\refint\Labo3TV.dll
+D:\Vs Projects\C#\Labo3TV\obj\Debug\net6.0\Labo3TV.pdb
+D:\Vs Projects\C#\Labo3TV\obj\Debug\net6.0\Labo3TV.genruntimeconfig.cache
+D:\Vs Projects\C#\Labo3TV\obj\Debug\net6.0\ref\Labo3TV.dll

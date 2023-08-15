@@ -1,0 +1,15 @@
+D:\Vs Projects\C#\Labo5Todo\bin\Debug\net6.0\Labo5Todo.exe
+D:\Vs Projects\C#\Labo5Todo\bin\Debug\net6.0\Labo5Todo.deps.json
+D:\Vs Projects\C#\Labo5Todo\bin\Debug\net6.0\Labo5Todo.runtimeconfig.json
+D:\Vs Projects\C#\Labo5Todo\bin\Debug\net6.0\Labo5Todo.dll
+D:\Vs Projects\C#\Labo5Todo\bin\Debug\net6.0\Labo5Todo.pdb
+D:\Vs Projects\C#\Labo5Todo\obj\Debug\net6.0\Labo5Todo.csproj.AssemblyReference.cache
+D:\Vs Projects\C#\Labo5Todo\obj\Debug\net6.0\Labo5Todo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vs Projects\C#\Labo5Todo\obj\Debug\net6.0\Labo5Todo.AssemblyInfoInputs.cache
+D:\Vs Projects\C#\Labo5Todo\obj\Debug\net6.0\Labo5Todo.AssemblyInfo.cs
+D:\Vs Projects\C#\Labo5Todo\obj\Debug\net6.0\Labo5Todo.csproj.CoreCompileInputs.cache
+D:\Vs Projects\C#\Labo5Todo\obj\Debug\net6.0\Labo5Todo.dll
+D:\Vs Projects\C#\Labo5Todo\obj\Debug\net6.0\refint\Labo5Todo.dll
+D:\Vs Projects\C#\Labo5Todo\obj\Debug\net6.0\Labo5Todo.pdb
+D:\Vs Projects\C#\Labo5Todo\obj\Debug\net6.0\Labo5Todo.genruntimeconfig.cache
+D:\Vs Projects\C#\Labo5Todo\obj\Debug\net6.0\ref\Labo5Todo.dll

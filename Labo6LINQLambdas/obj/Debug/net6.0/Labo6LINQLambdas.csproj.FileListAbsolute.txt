@@ -1,0 +1,15 @@
+D:\Vs Projects\C#\Labo6LINQLambdas\bin\Debug\net6.0\Labo6LINQLambdas.exe
+D:\Vs Projects\C#\Labo6LINQLambdas\bin\Debug\net6.0\Labo6LINQLambdas.deps.json
+D:\Vs Projects\C#\Labo6LINQLambdas\bin\Debug\net6.0\Labo6LINQLambdas.runtimeconfig.json
+D:\Vs Projects\C#\Labo6LINQLambdas\bin\Debug\net6.0\Labo6LINQLambdas.dll
+D:\Vs Projects\C#\Labo6LINQLambdas\bin\Debug\net6.0\Labo6LINQLambdas.pdb
+D:\Vs Projects\C#\Labo6LINQLambdas\obj\Debug\net6.0\Labo6LINQLambdas.csproj.AssemblyReference.cache
+D:\Vs Projects\C#\Labo6LINQLambdas\obj\Debug\net6.0\Labo6LINQLambdas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vs Projects\C#\Labo6LINQLambdas\obj\Debug\net6.0\Labo6LINQLambdas.AssemblyInfoInputs.cache
+D:\Vs Projects\C#\Labo6LINQLambdas\obj\Debug\net6.0\Labo6LINQLambdas.AssemblyInfo.cs
+D:\Vs Projects\C#\Labo6LINQLambdas\obj\Debug\net6.0\Labo6LINQLambdas.csproj.CoreCompileInputs.cache
+D:\Vs Projects\C#\Labo6LINQLambdas\obj\Debug\net6.0\Labo6LINQLambdas.dll
+D:\Vs Projects\C#\Labo6LINQLambdas\obj\Debug\net6.0\refint\Labo6LINQLambdas.dll
+D:\Vs Projects\C#\Labo6LINQLambdas\obj\Debug\net6.0\Labo6LINQLambdas.pdb
+D:\Vs Projects\C#\Labo6LINQLambdas\obj\Debug\net6.0\Labo6LINQLambdas.genruntimeconfig.cache
+D:\Vs Projects\C#\Labo6LINQLambdas\obj\Debug\net6.0\ref\Labo6LINQLambdas.dll
